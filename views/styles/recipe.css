@@ -1,0 +1,18 @@
+.recipe-container {
+  border: 1px solid grey;
+  overflow: auto;
+  width: 100%;
+  margin-top: 20px;
+  border-radius: 3px;
+}
+.food-info-div {
+  float: left;
+  width: 50%;
+  padding: 10px;
+}
+.food-image-div {
+  float: right;
+}
+.food-image {
+  max-width: 300px;
+}

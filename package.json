@@ -11,5 +11,11 @@
     "recipe"
   ],
   "author": "AndrewRMorgan",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.2",
+    "fs": "0.0.1-security",
+    "nodemon": "^1.12.1",
+    "pug": "^2.0.0-rc.4"
+  }
 }
